@@ -4,7 +4,7 @@
 
 授权：<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">署名-非商用许可证</a>
 
-## 目录
+- 目录
 - [前言](README.md)
 - [ECMAScript 6简介](docs/intro.md)
 - [let 和 const 命令](docs/let.md)
@@ -34,8 +34,7 @@
 - [ArrayBuffer](docs/arraybuffer.md)
 - [最新提案](docs/proposals.md)
 - [参考链接](docs/reference.md)
-
-## 其他
+- 其他
 - [源码](http://github.com/ruanyf/es6tutorial/)
 - [修订历史](https://github.com/ruanyf/es6tutorial/commits/gh-pages)
 - [反馈意见](https://github.com/ruanyf/es6tutorial/issues)
