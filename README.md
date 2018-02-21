@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-=======
 # ECMAScript 6 入门
 
 《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
@@ -30,4 +25,3 @@ This file file serves as your book's preface, a great place to describe your boo
 只要保持原作者署名和非商用，您可以自由地阅读、分享、修改本书。
 
 详细的法律条文请参见[创意共享](http://creativecommons.org/licenses/by-nc/4.0/)网站。
->>>>>>> origin
