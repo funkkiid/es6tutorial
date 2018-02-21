@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Summary
-
-* [First Chapter](chapter1.md)
-=======
 # [ECMAScript 6 入门]()
 
 作者：[阮一峰](http://www.ruanyifeng.com)
@@ -44,4 +39,3 @@
 - [源码](http://github.com/ruanyf/es6tutorial/)
 - [修订历史](https://github.com/ruanyf/es6tutorial/commits/gh-pages)
 - [反馈意见](https://github.com/ruanyf/es6tutorial/issues)
->>>>>>> origin
